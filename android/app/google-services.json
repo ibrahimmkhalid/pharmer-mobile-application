@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "930102223020",
+    "firebase_url": "https://pharmer-sensor-db-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "pharmer-sensor-db",
+    "storage_bucket": "pharmer-sensor-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930102223020:android:fb1e95789828e2a3677f09",
+        "android_client_info": {
+          "package_name": "com.fyp.Pharmer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930102223020-0erm84lhnhesp2m0qagbur45ihh03h42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXIcf_NGyBTYj2-RREFezCs_-8m6NIk00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930102223020-0erm84lhnhesp2m0qagbur45ihh03h42.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
